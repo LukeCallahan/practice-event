@@ -8,6 +8,8 @@ window.addEventListener("load", function(){
   let form = document.querySelector("form")
   let submit = document.querySelector(button#reset);
   let story = document.querySelector("div#story");
+
+  
 }) 
 
 
